@@ -16,3 +16,4 @@ end
 
 shoe = Shoe.new("converse")
 puts shoe.brand 
+puts condition
